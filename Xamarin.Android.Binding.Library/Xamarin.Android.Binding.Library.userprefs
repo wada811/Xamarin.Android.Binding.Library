@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Xamarin.Android.Binding.Project/Xamarin.Android.Binding.Project.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.CB5A1S6TST" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin.Android.Binding.Library/Transforms/Metadata.xml">
+    <Files>
+      <File FileName="Xamarin.Android.Binding.Project/MainActivity.cs" Line="27" Column="1" />
+      <File FileName="Xamarin.Android.Binding.Library/Transforms/Metadata.xml" Line="9" Column="115" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

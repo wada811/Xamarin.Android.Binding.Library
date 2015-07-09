@@ -1,0 +1,4 @@
+Xamarin.Android.Binding.Project.MainActivity, Xamarin.Android.Binding.Project;md5ed03d6a0190d5f34f5fe523592efab0c.MainActivity
+Xamarin.Android.Binding.Project.MainActivity, Xamarin.Android.Binding.Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ed03d6a0190d5f34f5fe523592efab0c.MainActivity
+Xamarin.Android.Binding.Project.MainActivity;md5ed03d6a0190d5f34f5fe523592efab0c.MainActivity
+xamarin.android.binding.project.MainActivity;md5ed03d6a0190d5f34f5fe523592efab0c.MainActivity

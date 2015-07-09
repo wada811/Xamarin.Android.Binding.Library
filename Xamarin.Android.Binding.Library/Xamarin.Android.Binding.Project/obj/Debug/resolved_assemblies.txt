@@ -1,0 +1,3 @@
+/Users/wada/Documents/Xamarin.Android.Binding.Library/Xamarin.Android.Binding.Library/Xamarin.Android.Binding.Project/obj/Debug/assemblies/Xamarin.Android.Binding.Project.dll
+/Users/wada/Documents/Xamarin.Android.Binding.Library/Xamarin.Android.Binding.Library/Xamarin.Android.Binding.Project/obj/Debug/assemblies/Newtonsoft.Json.dll
+/Users/wada/Documents/Xamarin.Android.Binding.Library/Xamarin.Android.Binding.Library/Xamarin.Android.Binding.Project/obj/Debug/assemblies/Xamarin.Android.Binding.Library.dll

@@ -1,0 +1,6 @@
+/Users/wada/Documents/Xamarin.Android.Binding.Library/Xamarin.Android.Binding.Library/Xamarin.Android.Binding.Library/obj/Debug/MonoAndroid,Version=v5.0.AssemblyAttribute.cs
+/Users/wada/Documents/Xamarin.Android.Binding.Library/Xamarin.Android.Binding.Library/Xamarin.Android.Binding.Library/obj/Debug/Xamarin.Android.Binding.Library.obj.Debug.__AndroidLibraryProjects__.zip
+/Users/wada/Documents/Xamarin.Android.Binding.Library/Xamarin.Android.Binding.Library/Xamarin.Android.Binding.Library/bin/Debug/Xamarin.Android.Binding.Library.dll.mdb
+/Users/wada/Documents/Xamarin.Android.Binding.Library/Xamarin.Android.Binding.Library/Xamarin.Android.Binding.Library/bin/Debug/Xamarin.Android.Binding.Library.dll
+/Users/wada/Documents/Xamarin.Android.Binding.Library/Xamarin.Android.Binding.Library/Xamarin.Android.Binding.Library/obj/Debug/Xamarin.Android.Binding.Library.dll
+/Users/wada/Documents/Xamarin.Android.Binding.Library/Xamarin.Android.Binding.Library/Xamarin.Android.Binding.Library/obj/Debug/Xamarin.Android.Binding.Library.dll.mdb

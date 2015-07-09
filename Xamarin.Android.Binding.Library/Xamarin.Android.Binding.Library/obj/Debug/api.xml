@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<api>
+<package name="com.wada811.android.binding.library">
+<class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="BuildConfig" static="false" visibility="public">
+<constructor deprecated="not deprecated" final="false" name="BuildConfig" static="false" type="com.wada811.android.binding.library.BuildConfig" visibility="public">
+</constructor>
+<field deprecated="not deprecated" final="true" name="APPLICATION_ID" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;com.wada811.android.binding.library&quot;" visibility="public" volatile="false">
+</field>
+<field deprecated="not deprecated" final="true" name="BUILD_TYPE" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;release&quot;" visibility="public" volatile="false">
+</field>
+<field deprecated="not deprecated" final="true" name="DEBUG" static="true" transient="false" type="boolean" type-generic-aware="boolean" value="false" visibility="public" volatile="false">
+</field>
+<field deprecated="not deprecated" final="true" name="FLAVOR" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;&quot;" visibility="public" volatile="false">
+</field>
+<field deprecated="not deprecated" final="true" name="VERSION_CODE" static="true" transient="false" type="int" type-generic-aware="int" value="1" visibility="public" volatile="false">
+</field>
+<field deprecated="not deprecated" final="true" name="VERSION_NAME" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;1.0&quot;" visibility="public" volatile="false">
+</field>
+</class>
+<class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="TestClass" static="false" visibility="public">
+<implements name="com.wada811.android.binding.library.TestInterface" name-generic-aware="com.wada811.android.binding.library.TestInterface">
+</implements>
+<constructor deprecated="not deprecated" final="false" name="TestClass" static="false" type="com.wada811.android.binding.library.TestClass" visibility="public">
+<parameter name="p0" type="float">
+</parameter>
+</constructor>
+<constructor deprecated="not deprecated" final="false" name="TestClass" static="false" type="com.wada811.android.binding.library.TestClass" visibility="public">
+<parameter name="p0" type="double">
+</parameter>
+</constructor>
+<constructor deprecated="not deprecated" final="false" name="TestClass" static="false" type="com.wada811.android.binding.library.TestClass" visibility="public">
+<parameter name="p0" type="boolean">
+</parameter>
+</constructor>
+<constructor deprecated="not deprecated" final="false" name="TestClass" static="false" type="com.wada811.android.binding.library.TestClass" visibility="public">
+<parameter name="p0" type="java.lang.String">
+</parameter>
+</constructor>
+<constructor deprecated="not deprecated" final="false" name="TestClass" static="false" type="com.wada811.android.binding.library.TestClass" visibility="public">
+</constructor>
+<constructor deprecated="not deprecated" final="false" name="TestClass" static="false" type="com.wada811.android.binding.library.TestClass" visibility="public">
+<parameter name="p0" type="int">
+</parameter>
+</constructor>
+<constructor deprecated="not deprecated" final="false" name="TestClass" static="false" type="com.wada811.android.binding.library.TestClass" visibility="public">
+<parameter name="p0" type="long">
+</parameter>
+</constructor>
+<method abstract="false" deprecated="not deprecated" final="false" name="toast" native="false" return="void" static="false" synchronized="false" visibility="public">
+<parameter name="p0" type="android.content.Context">
+</parameter>
+<parameter name="p1" type="java.lang.String">
+</parameter>
+</method>
+<field deprecated="not deprecated" final="false" name="aBoolean" static="false" transient="false" type="boolean" type-generic-aware="boolean" visibility="public" volatile="false">
+</field>
+<field deprecated="not deprecated" final="false" name="aDouble" static="false" transient="false" type="double" type-generic-aware="double" visibility="public" volatile="false">
+</field>
+<field deprecated="not deprecated" final="false" name="aFloat" static="false" transient="false" type="float" type-generic-aware="float" visibility="public" volatile="false">
+</field>
+<field deprecated="not deprecated" final="false" name="aLong" static="false" transient="false" type="long" type-generic-aware="long" visibility="public" volatile="false">
+</field>
+<field deprecated="not deprecated" final="false" name="aString" static="false" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" visibility="public" volatile="false">
+</field>
+<field deprecated="not deprecated" final="false" name="anInt" static="false" transient="false" type="int" type-generic-aware="int" visibility="public" volatile="false">
+</field>
+</class>
+<interface abstract="true" deprecated="not deprecated" final="false" name="TestInterface" static="false" visibility="public">
+<method abstract="true" deprecated="not deprecated" final="false" name="toast" native="false" return="void" static="false" synchronized="false" visibility="public">
+<parameter name="p0" type="android.content.Context">
+</parameter>
+<parameter name="p1" type="java.lang.String">
+</parameter>
+</method>
+</interface>
+</package>
+</api>
